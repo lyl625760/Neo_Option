@@ -1,0 +1,9 @@
+/Users/liangyulin/NeoProjects/OO/OO/bin/Debug/netstandard2.0/OO.deps.json
+/Users/liangyulin/NeoProjects/OO/OO/bin/Debug/netstandard2.0/OO.dll
+/Users/liangyulin/NeoProjects/OO/OO/bin/Debug/netstandard2.0/OO.pdb
+/Users/liangyulin/NeoProjects/OO/OO/obj/Debug/netstandard2.0/OO.csprojResolveAssemblyReference.cache
+/Users/liangyulin/NeoProjects/OO/OO/obj/Debug/netstandard2.0/OO.csproj.CoreCompileInputs.cache
+/Users/liangyulin/NeoProjects/OO/OO/obj/Debug/netstandard2.0/OO.AssemblyInfoInputs.cache
+/Users/liangyulin/NeoProjects/OO/OO/obj/Debug/netstandard2.0/OO.AssemblyInfo.cs
+/Users/liangyulin/NeoProjects/OO/OO/obj/Debug/netstandard2.0/OO.dll
+/Users/liangyulin/NeoProjects/OO/OO/obj/Debug/netstandard2.0/OO.pdb
